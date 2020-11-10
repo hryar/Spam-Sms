@@ -15,11 +15,11 @@ class Main:
 
 Menu :
 
-1. OTP KANTOR PRESIDEN
-2. OTP KANTOR BUPATI
-3. OTP KANTOR DPRD
-4. OTP KANTOR CAMAT
-5. OTP KANTOR POLISI
+1. OTP PRESIDEN
+2. OTP BUPATI
+3. OTP DPRD
+4. OTP CAMAT
+5. OTP POLISI
 """)
 		pilih=int(input('Pilih No : '))
 		if pilih == 1:

@@ -21,7 +21,7 @@ Menu :
 4. OTP KANTOR CAMAT
 5. OTP KANTOR POLISI
 """)
-		pilih=int(input('noobie/> '))
+		pilih=int(input('Pilih No : '))
 		if pilih == 1:
 			import src.presiden
 		elif pilih == 2:
